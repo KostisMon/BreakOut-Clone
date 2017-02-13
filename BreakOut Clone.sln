@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakOut Clone", "BreakOut Clone.csproj", "{4B46C7BA-2AEC-9F9F-C5B8-39A07D92B75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakOut Clone.Editor", "BreakOut Clone.Editor.csproj", "{BC1EF708-D439-11DC-56BA-6076FD1539EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B46C7BA-2AEC-9F9F-C5B8-39A07D92B75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B46C7BA-2AEC-9F9F-C5B8-39A07D92B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B46C7BA-2AEC-9F9F-C5B8-39A07D92B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B46C7BA-2AEC-9F9F-C5B8-39A07D92B75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1EF708-D439-11DC-56BA-6076FD1539EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1EF708-D439-11DC-56BA-6076FD1539EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1EF708-D439-11DC-56BA-6076FD1539EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1EF708-D439-11DC-56BA-6076FD1539EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

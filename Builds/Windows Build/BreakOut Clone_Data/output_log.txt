@@ -1,0 +1,44 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jahnabet\Documents\Unity Projects\BreakOut Clone\Builds\Windows Build\BreakOut Clone_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.344587 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.819256 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 2.297675 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.025678 ms MarkObjects: 0.310913 ms  DeleteObjects: 1.918416 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.643554 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 4.572042 ms (FindLiveObjects: 0.027259 ms CreateObjectMapping: 0.047802 ms MarkObjects: 0.252444 ms  DeleteObjects: 4.244141 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a44 -> priority: 1 
+  Thread -> id: 1ce8 -> priority: 1 
